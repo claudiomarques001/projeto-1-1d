@@ -11,21 +11,12 @@ color :black;
       text-align:center;
       padding:20px;
   }
-  .imagem-kuromi{
-     width: 100px;
-     height: 100px;
-
-  }
-.imagem-raichu{
-     width: 100px;
-    height: 100px;
-
-
-}
  
-.imagem-bubasauro{
-     width: 100px;
-     height: 100px;
+  .imagem-pokemon{
+
+   width: 100px;
+   height: 100px;
 
 
 }
+
